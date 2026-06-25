@@ -1,2 +1,2 @@
 # python-basics
-My first Pythin learning projects
+My first Python learning projects
