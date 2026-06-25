@@ -1,3 +1,7 @@
-n=["faisal" ,"ahmed" , "mohamed" , "rayan"]
-for i in range(1,5):
-    print(i ,"." , n[i-1])
+def greet(name):
+    result = ("hello " + name + " welcome!")
+    print(result)
+
+greet("faisal")
+greet("ahmed")
+greet("mohamed")
