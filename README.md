@@ -7,3 +7,10 @@ A simple Python game where the player guesses a random number between 1-10.
 - Random number generation
 - Attempts counter
 - Higher/Lower hints
+
+## Quiz Game
+A simple Python game where the player answers a question.
+
+### Features
+- Multiple choice questions
+- Tells the player how many questions he got right
